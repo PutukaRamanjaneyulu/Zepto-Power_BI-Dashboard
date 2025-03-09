@@ -7,7 +7,7 @@ The **Zepto Inventory & Supply Chain Analytics** dashboard is a Power BI project
 ## 📊 Dashboard Preview
 
 
-![Screenshot 2025-02-26 120801](https://github.com/user-attachments/assets/1f16ab02-ceb5-4d5a-b232-76920496c13c)
+![project1](https://github.com/user-attachments/assets/f1183be1-12bc-4e30-9fc5-995c72485149)
 
 ## 🔍 Key Features & Insights
 
