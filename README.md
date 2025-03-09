@@ -59,5 +59,5 @@ This project is licensed under the MIT License.
 
 ### 🔗 Connect
 
-For any queries, feel free to reach out via [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/posts/putuka-ramanjaneyulu-2128r_powerbi-dataanalytics-supplychain-activity-7300411738942754834-B_Tr/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD2ia5EB1oVSVZZwKYH5dxER-gZNWMmZj-k) or open an issue in this repository.
+For any queries, feel free to reach out via [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/posts/putuka-ramanjaneyulu-2128r_powerbi-dataanalytics-supplychain-activity-7300411738942754834-B_Tr/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD2ia5EB1oVSVZZwKYH5dxER-gZNWMmZj-k)  or open an issue in this repository.
 
